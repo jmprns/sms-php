@@ -27,7 +27,7 @@
       <textarea id="mes" class="form-control" placeholder="Message"></textarea>
       <br>
       <button id="button-send" class="btn btn-lg btn-primary btn-block" type="submit">Send</button>
-      <p class="mt-5 mb-3 text-muted">&copy; <?php echo date('Y', time()); ?> 박깅잭</p>
+      <p class="mt-5 mb-3 text-muted">&copy; <?php echo date('Y', time()); ?> JMPRNS</p>
     </form>
 
 	<script type="text/javascript" src="dist/jquery.js"></script>
